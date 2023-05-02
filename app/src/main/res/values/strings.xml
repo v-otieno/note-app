@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Notes</string>
+    <string name="sort_by_deadline">Sort By Deadline</string>
+</resources>
